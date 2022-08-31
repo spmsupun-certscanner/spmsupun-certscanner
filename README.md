@@ -7,4 +7,4 @@
 - 📪 How to reach me: [supun.xyz](https://supun.xyz/)
 - 🦮 Pronouns: ... he/him
 
-![Status](https://github-readme-stats.vercel.app/api?username=spmsupun&show_icons=true&count_private=true)
+![Status](https://github-readme-stats.vercel.app/api?username=spmsupun-certscanner&show_icons=true&count_private=true)
