@@ -7,7 +7,4 @@
 - 📪 How to reach me: [supun.xyz](https://supun.xyz/)
 - 🦮 Pronouns: ... he/him
 
-<!---
-spmsupun-certscanner/spmsupun-certscanner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Status](https://github-readme-stats.vercel.app/api?username=spmsupun&show_icons=true&count_private=true)
