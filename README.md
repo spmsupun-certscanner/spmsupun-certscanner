@@ -5,6 +5,5 @@
 - 💃 I’m looking for contribute on open source projects
 - 💬 Ask me about anything regarding web development and DevOps
 - 📪 How to reach me: [supun.xyz](https://supun.xyz/)
-- 🦮 Pronouns: ... he/him
-
+  
 ![Status](https://github-readme-stats.vercel.app/api?username=spmsupun-certscanner&show_icons=true&count_private=true)
